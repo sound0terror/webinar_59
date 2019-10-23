@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/webinar_59/static/css/main.c4b7101e.chunk.css",
+    "main.js": "/webinar_59/static/js/main.7a10cee6.chunk.js",
+    "main.js.map": "/webinar_59/static/js/main.7a10cee6.chunk.js.map",
+    "runtime-main.js": "/webinar_59/static/js/runtime-main.f3139a56.js",
+    "runtime-main.js.map": "/webinar_59/static/js/runtime-main.f3139a56.js.map",
+    "static/css/2.0624914a.chunk.css": "/webinar_59/static/css/2.0624914a.chunk.css",
+    "static/js/2.3f49c6d8.chunk.js": "/webinar_59/static/js/2.3f49c6d8.chunk.js",
+    "static/js/2.3f49c6d8.chunk.js.map": "/webinar_59/static/js/2.3f49c6d8.chunk.js.map",
+    "index.html": "/webinar_59/index.html",
+    "precache-manifest.d0434550b9ec419071c05849ac4c68e8.js": "/webinar_59/precache-manifest.d0434550b9ec419071c05849ac4c68e8.js",
+    "service-worker.js": "/webinar_59/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/webinar_59/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.c4b7101e.chunk.css.map": "/webinar_59/static/css/main.c4b7101e.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3139a56.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.3f49c6d8.chunk.js",
+    "static/css/main.c4b7101e.chunk.css",
+    "static/js/main.7a10cee6.chunk.js"
+  ]
+}
